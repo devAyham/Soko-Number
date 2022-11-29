@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Soko-Number/static/css/main.6d405aa9.css",
-    "main.js": "/Soko-Number/static/js/main.e1b33aa4.js",
+    "main.js": "/Soko-Number/static/js/main.ead047af.js",
     "static/media/wall.jpg": "/Soko-Number/static/media/wall.7a4ae9abf05bc553eda8.jpg",
     "static/media/roboto-all-500-normal.woff": "/Soko-Number/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/Soko-Number/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
@@ -44,6 +44,6 @@
   },
   "entrypoints": [
     "static/css/main.6d405aa9.css",
-    "static/js/main.e1b33aa4.js"
+    "static/js/main.ead047af.js"
   ]
 }
